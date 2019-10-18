@@ -92,12 +92,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-52-66-168-51.ap-south-1.compute.amazonaws.com:8081/repository/webapp/</url>
+	      <url>http://13.127.211.215:8081/repository/abc-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-52-66-168-51.ap-south-1.compute.amazonaws.com:8081/repository/webapp/</url>
+	      <url>http://13.127.211.215:8081/repository/abs-snap/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
